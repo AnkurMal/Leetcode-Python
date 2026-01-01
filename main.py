@@ -1,4 +1,5 @@
-from problems.p36 import Solution
+from problems.p70 import Solution
 
 
 sol = Solution()
+sol.climbStairs(8)
