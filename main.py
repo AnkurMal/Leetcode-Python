@@ -1,5 +1,5 @@
-from problems.p70 import Solution
+from problems.p238 import Solution
 
 
 sol = Solution()
-sol.climbStairs(8)
+sol.productExceptSelf([1,2,3,4])
